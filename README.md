@@ -187,14 +187,3 @@ http://localhost/prep/social-login/public/logout.php
 ## 🔹 License
 
 MIT License
-
-```
-
----
-
-This README covers everything: **folder structure, database, Google setup, OAuth config, running locally, and security tips**.  
-
-If you want, I can **also make a ready-to-push GitHub structure** with **all working files (`SocialAuth.php`, `User.php`, `Database.php`, `login.php`, `callback.php`, `logout.php`)** exactly for `/var/www/html/prep/social-login/`.  
-
-Do you want me to create that full package?
-```
