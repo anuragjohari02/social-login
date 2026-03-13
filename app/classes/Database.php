@@ -2,8 +2,8 @@
 class Database {
     private $host = 'localhost';
     private $db = 'social_login';
-    private $user = 'phpmyadmin';
-    private $pass = '123';
+    private $user = 'root';
+    private $pass = '';
     public $conn;
 
     public function __construct() {
