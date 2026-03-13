@@ -1,5 +1,9 @@
 <?php
-require_once __DIR__ . '/../config/config.php';
+$config = require __DIR__ . '/../config/config.php';
+echo '<pre>';
+print_r($config);
+echo '</pre>';
+die();
 
 class Database {
     private $host;
